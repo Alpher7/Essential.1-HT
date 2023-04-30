@@ -39,7 +39,7 @@ class Showroom:
         print()
 
 
-car1 = Car("Rolls Royce", "Cullinan", "Gold", "vin0001", 450000)
+car1 = Car("Rolls Royce", "Cullinan", "White Pearl", "vin0001", 450000)
 car2 = Car("Maserati", "Levante", "Silver", "vin0002", 120000)
 car3 = Car("Mercedes", "S500", "Black", "vin0003", 210000)
 car4 = Car("Lucid", "Air", "Gold", "vin0004", 180000)
