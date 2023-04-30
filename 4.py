@@ -48,7 +48,7 @@ car5 = Car("Suzuki", "Swift", "Grey", "vin0005", 20000)
 
 lux_sr = Showroom("Alex's Showroom")
 lux_sr.add_car(car1)
-lux_sr.add_car(car1)
+lux_sr.add_car(car2)
 lux_sr.add_car(car2)
 lux_sr.add_car(car3)
 lux_sr.add_car(car4)
