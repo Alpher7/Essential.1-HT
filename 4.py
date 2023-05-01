@@ -57,7 +57,6 @@ lux_sr.add_car(car5)
 lux_sr.show_cars()
 
 lux_sr.remove_car(car1)
-lux_sr.remove_car(car1)
 lux_sr.remove_car(car2)
 
 lux_sr.show_cars()
